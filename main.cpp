@@ -5,7 +5,7 @@
 #include <chrono>
 #include <iomanip>
 #include <fstream>
-#define MAX 9598 //Number of files
+#define MAX 10000 //Number of files
 
 #include "BinaryTree.h"
 using namespace std;
